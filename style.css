@@ -1,0 +1,11 @@
+body {
+
+    color: #808080;
+    background-image: url("700x511_SliderInterior.jpg");
+  }
+
+  .jumbotron {
+    background-image: url("El_dominio_invisible_de_las_bacterias.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
